@@ -1,1 +1,2 @@
 # Mygin
+open index.html
